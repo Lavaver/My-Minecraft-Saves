@@ -1,0 +1,339 @@
+[22:08:14] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.15.11
+[22:08:14] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
+[22:08:14] [main/INFO]: Loading 60 mods:
+	- fabric-api 0.87.2+1.19.4
+	   |-- fabric-api-base 0.4.28+737a6ee8f4
+	   |-- fabric-api-lookup-api-v1 1.6.29+504944c8f4
+	   |-- fabric-biome-api-v1 13.0.10+6b242079f4
+	   |-- fabric-block-api-v1 1.0.8+e022e5d1f4
+	   |-- fabric-blockrenderlayer-v1 1.1.38+10ce000ff4
+	   |-- fabric-client-tags-api-v1 1.1.1+0eee1254f4
+	   |-- fabric-command-api-v1 1.2.31+f71b366ff4
+	   |-- fabric-command-api-v2 2.2.10+10ce000ff4
+	   |-- fabric-commands-v0 0.2.48+df3654b3f4
+	   |-- fabric-containers-v0 0.1.59+df3654b3f4
+	   |-- fabric-content-registries-v0 3.5.14+10ce000ff4
+	   |-- fabric-convention-tags-v1 1.5.3+6d727b51f4
+	   |-- fabric-crash-report-info-v1 0.2.17+aeb40ebef4
+	   |-- fabric-data-generation-api-v1 11.5.2+26f09d40f4
+	   |-- fabric-dimensions-v1 2.1.50+44c9c860f4
+	   |-- fabric-entity-events-v1 1.5.17+10ce000ff4
+	   |-- fabric-events-interaction-v0 0.6.1+4b6b93f0f4
+	   |-- fabric-events-lifecycle-v0 0.2.56+df3654b3f4
+	   |-- fabric-game-rule-api-v1 1.0.36+3f657af2f4
+	   |-- fabric-item-api-v1 2.1.21+10ce000ff4
+	   |-- fabric-item-group-api-v1 3.0.10+8400c67ef4
+	   |-- fabric-key-binding-api-v1 1.0.35+504944c8f4
+	   |-- fabric-keybindings-v0 0.2.33+df3654b3f4
+	   |-- fabric-lifecycle-events-v1 2.2.19+10ce000ff4
+	   |-- fabric-loot-api-v2 1.1.32+10ce000ff4
+	   |-- fabric-loot-tables-v1 1.1.36+9e7660c6f4
+	   |-- fabric-message-api-v1 5.1.5+53c11dadf4
+	   |-- fabric-mining-level-api-v1 2.1.44+10ce000ff4
+	   |-- fabric-model-loading-api-v1 1.0.2+3a1ea2f1f4
+	   |-- fabric-models-v0 0.4.1+a0255436f4
+	   |-- fabric-networking-api-v1 1.3.6+ae9c4c6af4
+	   |-- fabric-networking-v0 0.3.46+df3654b3f4
+	   |-- fabric-object-builder-api-v1 7.1.1+d63b52eaf4
+	   |-- fabric-particles-v1 1.1.1+86d48884f4
+	   |-- fabric-recipe-api-v1 1.0.13+10ce000ff4
+	   |-- fabric-registry-sync-v0 2.3.2+95ae8716f4
+	   |-- fabric-renderer-api-v1 2.4.2+90110d8df4
+	   |-- fabric-renderer-indigo 1.4.2+90110d8df4
+	   |-- fabric-renderer-registries-v1 3.2.42+df3654b3f4
+	   |-- fabric-rendering-data-attachment-v1 0.3.32+10ce000ff4
+	   |-- fabric-rendering-fluids-v1 3.0.25+10ce000ff4
+	   |-- fabric-rendering-v0 1.1.45+df3654b3f4
+	   |-- fabric-rendering-v1 2.1.5+10ce000ff4
+	   |-- fabric-resource-conditions-api-v1 2.3.3+10ce000ff4
+	   |-- fabric-resource-loader-v0 0.11.7+8400c67ef4
+	   |-- fabric-screen-api-v1 1.0.49+10ce000ff4
+	   |-- fabric-screen-handler-api-v1 1.3.25+10ce000ff4
+	   |-- fabric-sound-api-v1 1.0.11+10ce000ff4
+	   |-- fabric-transfer-api-v1 3.3.1+602c17c7f4
+	   \-- fabric-transitive-access-wideners-v1 3.3.0+1b5f819af4
+	- fabricloader 0.15.11
+	   \-- mixinextras 0.3.5
+	- iris 1.6.11
+	   |-- io_github_douira_glsl-transformer 2.0.0-pre13
+	   |-- org_anarres_jcpp 1.4.14
+	   \-- org_antlr_antlr4-runtime 4.11.1
+	- java 17
+	- minecraft 1.19.4
+	- sodium 0.4.10+build.24
+[22:08:17] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/D:/desktop/Client/.minecraft/libraries/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[22:08:22] [main/INFO]: Compatibility level set to JAVA_16
+[22:08:22] [main/INFO]: Compatibility level set to JAVA_17
+[22:08:23] [main/INFO]: Loaded configuration file for Sodium: 33 options available, 3 override(s) found
+[22:08:25] [main/WARN]: Error loading class: net/fabricmc/fabric/impl/client/indigo/renderer/render/AbstractQuadRenderer (java.lang.ClassNotFoundException: net/fabricmc/fabric/impl/client/indigo/renderer/render/AbstractQuadRenderer)
+[22:08:25] [main/WARN]: Force-disabling mixin 'features.entity.fast_render.MixinCuboid' as rule 'mixin.features.entity.fast_render' (added by mods [iris]) disables it and children
+[22:08:25] [main/WARN]: Force-disabling mixin 'features.entity.fast_render.MixinModelPart' as rule 'mixin.features.entity.fast_render' (added by mods [iris]) disables it and children
+[22:08:25] [main/WARN]: Force-disabling mixin 'features.gui.font.MixinGlyphRenderer' as rule 'mixin.features.gui.font' (added by mods [iris]) disables it and children
+[22:08:25] [main/WARN]: Force-disabling mixin 'features.sky.MixinWorldRenderer' as rule 'mixin.features.sky' (added by mods [iris]) disables it and children
+[22:08:26] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[22:08:47] [Datafixer Bootstrap/INFO]: 180 Datafixer optimizations took 540 milliseconds
+[22:08:55] [Render thread/INFO]: Launching a new process to probe the system configuration!
+[22:08:57] [Render thread/INFO]: OpenGL Vendor: ATI Technologies Inc.
+[22:08:57] [Render thread/INFO]: OpenGL Renderer: AMD Radeon(TM) Vega 8 Graphics
+[22:08:57] [Render thread/INFO]: OpenGL Version: 4.6.0 Compatibility Profile Context 24.1.1.231127
+[22:08:59] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:09:00] [Render thread/INFO]: Setting user: Bilibili_ddxyy
+[22:09:01] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[22:09:02] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 SNAPSHOT
+[22:09:04] [Render thread/INFO]: Debug functionality is disabled.
+[22:09:04] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
+[22:09:04] [Render thread/INFO]: Shaders are disabled because no valid shaderpack is selected
+[22:09:04] [Render thread/INFO]: Shaders are disabled
+[22:09:05] [Render thread/WARN]: Static binding violation: PRIVATE @Overwrite method method_23182 in sodium.mixins.json:features.item.MixinItemRenderer from mod sodium cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[22:09:06] [Render thread/INFO]: Hardware information:
+[22:09:06] [Render thread/INFO]: CPU: 8x AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx 
+[22:09:06] [Render thread/INFO]: GPU: AMD Radeon(TM) Vega 8 Graphics (Supports OpenGL 3.2.0 Core Profile Context 24.1.1.231127)
+[22:09:06] [Render thread/INFO]: OS: Windows 10 (10.0)
+[22:09:08] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric (fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-containers-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-crash-report-info-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-events-lifecycle-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-tables-v1, fabric-message-api-v1, fabric-mining-level-api-v1, fabric-model-loading-api-v1, fabric-models-v0, fabric-networking-api-v1, fabric-networking-v0, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, iris, sodium)
+[22:09:08] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[22:09:19] [Render thread/WARN]: Missing sound for event: minecraft:item.brush.brushing
+[22:09:19] [Render thread/WARN]: Missing sound for event: minecraft:item.brush.brush_sand_completed
+[22:09:19] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[22:09:19] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[22:09:19] [Render thread/WARN]: Missing sound for event: minecraft:music.overworld.cherry_grove
+[22:09:20] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on 扬声器 (Realtek(R) Audio)
+[22:09:20] [Render thread/INFO]: Sound engine started
+[22:09:20] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[22:09:20] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[22:09:20] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[22:09:20] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[22:09:20] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[22:09:20] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[22:09:20] [Render thread/INFO]: Created: 64x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[22:09:20] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[22:09:20] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[22:09:22] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[22:09:22] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[22:09:22] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[22:09:22] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[22:10:47] [Render thread/INFO]: Loaded 7 recipes
+[22:10:48] [Render thread/INFO]: Loaded 1179 advancements
+[22:11:05] [Render thread/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 5.450 ms
+[22:11:05] [Server thread/INFO]: Starting integrated minecraft server version 1.19.4
+[22:11:05] [Server thread/INFO]: Generating keypair
+[22:11:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:11:22] [Render thread/INFO]: 准备生成区域中：0%
+[22:11:22] [Render thread/INFO]: 准备生成区域中：0%
+[22:11:22] [Render thread/INFO]: 准备生成区域中：0%
+[22:11:22] [Render thread/INFO]: 准备生成区域中：0%
+[22:11:22] [Render thread/INFO]: 准备生成区域中：0%
+[22:11:22] [Render thread/INFO]: 准备生成区域中：0%
+[22:11:22] [Render thread/INFO]: 准备生成区域中：0%
+[22:11:22] [Render thread/INFO]: 准备生成区域中：0%
+[22:11:22] [Render thread/INFO]: 准备生成区域中：0%
+[22:11:22] [Render thread/INFO]: 准备生成区域中：0%
+[22:11:23] [Render thread/INFO]: 准备生成区域中：0%
+[22:11:23] [Render thread/INFO]: 准备生成区域中：0%
+[22:11:24] [Render thread/INFO]: 准备生成区域中：0%
+[22:11:24] [Render thread/INFO]: 准备生成区域中：0%
+[22:11:25] [Render thread/INFO]: 准备生成区域中：0%
+[22:11:25] [Render thread/INFO]: 准备生成区域中：0%
+[22:11:26] [Render thread/INFO]: 准备生成区域中：0%
+[22:11:26] [Render thread/INFO]: 准备生成区域中：1%
+[22:11:27] [Render thread/INFO]: 准备生成区域中：1%
+[22:11:27] [Render thread/INFO]: 准备生成区域中：1%
+[22:11:28] [Render thread/INFO]: 准备生成区域中：1%
+[22:11:28] [Render thread/INFO]: 准备生成区域中：2%
+[22:11:32] [Render thread/INFO]: 准备生成区域中：2%
+[22:11:32] [Render thread/INFO]: 准备生成区域中：2%
+[22:11:32] [Render thread/INFO]: 准备生成区域中：2%
+[22:11:32] [Render thread/INFO]: 准备生成区域中：2%
+[22:11:32] [Render thread/INFO]: 准备生成区域中：2%
+[22:11:32] [Render thread/INFO]: 准备生成区域中：2%
+[22:11:32] [Render thread/INFO]: 准备生成区域中：2%
+[22:11:32] [Render thread/INFO]: 准备生成区域中：2%
+[22:11:33] [Render thread/INFO]: 准备生成区域中：2%
+[22:11:33] [Render thread/INFO]: 准备生成区域中：2%
+[22:11:34] [Render thread/INFO]: 准备生成区域中：3%
+[22:11:34] [Render thread/INFO]: 准备生成区域中：4%
+[22:11:35] [Render thread/INFO]: 准备生成区域中：4%
+[22:11:35] [Render thread/INFO]: 准备生成区域中：4%
+[22:11:36] [Render thread/INFO]: 准备生成区域中：4%
+[22:11:36] [Render thread/INFO]: 准备生成区域中：4%
+[22:11:37] [Render thread/INFO]: 准备生成区域中：5%
+[22:11:38] [Render thread/INFO]: 准备生成区域中：5%
+[22:11:38] [Render thread/INFO]: 准备生成区域中：5%
+[22:11:38] [Render thread/INFO]: 准备生成区域中：5%
+[22:11:40] [Render thread/INFO]: 准备生成区域中：6%
+[22:11:41] [Render thread/INFO]: 准备生成区域中：6%
+[22:11:41] [Render thread/INFO]: 准备生成区域中：6%
+[22:11:41] [Render thread/INFO]: 准备生成区域中：6%
+[22:11:41] [Render thread/INFO]: 准备生成区域中：6%
+[22:11:42] [Render thread/INFO]: 准备生成区域中：6%
+[22:11:42] [Render thread/INFO]: 准备生成区域中：6%
+[22:11:42] [Render thread/INFO]: 准备生成区域中：7%
+[22:11:43] [Render thread/INFO]: 准备生成区域中：7%
+[22:11:43] [Render thread/INFO]: 准备生成区域中：8%
+[22:11:44] [Render thread/INFO]: 准备生成区域中：9%
+[22:11:44] [Render thread/INFO]: 准备生成区域中：9%
+[22:11:45] [Render thread/INFO]: 准备生成区域中：10%
+[22:11:45] [Render thread/INFO]: 准备生成区域中：10%
+[22:11:46] [Render thread/INFO]: 准备生成区域中：11%
+[22:11:46] [Render thread/INFO]: 准备生成区域中：12%
+[22:11:47] [Render thread/INFO]: 准备生成区域中：13%
+[22:11:47] [Render thread/INFO]: 准备生成区域中：13%
+[22:11:48] [Render thread/INFO]: 准备生成区域中：14%
+[22:11:48] [Render thread/INFO]: 准备生成区域中：14%
+[22:11:49] [Render thread/INFO]: 准备生成区域中：15%
+[22:11:49] [Render thread/INFO]: 准备生成区域中：15%
+[22:11:50] [Render thread/INFO]: 准备生成区域中：15%
+[22:11:50] [Render thread/INFO]: 准备生成区域中：16%
+[22:11:51] [Render thread/INFO]: 准备生成区域中：17%
+[22:11:51] [Render thread/INFO]: 准备生成区域中：17%
+[22:11:52] [Render thread/INFO]: 准备生成区域中：17%
+[22:11:52] [Render thread/INFO]: 准备生成区域中：17%
+[22:11:53] [Render thread/INFO]: 准备生成区域中：18%
+[22:11:54] [Render thread/INFO]: 准备生成区域中：19%
+[22:11:54] [Render thread/INFO]: 准备生成区域中：19%
+[22:11:54] [Render thread/INFO]: 准备生成区域中：19%
+[22:11:55] [Render thread/INFO]: 准备生成区域中：20%
+[22:11:55] [Render thread/INFO]: 准备生成区域中：20%
+[22:11:57] [Render thread/INFO]: 准备生成区域中：22%
+[22:11:57] [Render thread/INFO]: 准备生成区域中：22%
+[22:11:57] [Render thread/INFO]: 准备生成区域中：22%
+[22:11:57] [Render thread/INFO]: 准备生成区域中：23%
+[22:11:58] [Render thread/INFO]: 准备生成区域中：23%
+[22:11:58] [Render thread/INFO]: 准备生成区域中：23%
+[22:11:59] [Render thread/INFO]: 准备生成区域中：23%
+[22:11:59] [Render thread/INFO]: 准备生成区域中：23%
+[22:12:00] [Render thread/INFO]: 准备生成区域中：23%
+[22:12:00] [Render thread/INFO]: 准备生成区域中：23%
+[22:12:01] [Render thread/INFO]: 准备生成区域中：23%
+[22:12:01] [Render thread/INFO]: 准备生成区域中：24%
+[22:12:02] [Render thread/INFO]: 准备生成区域中：24%
+[22:12:02] [Render thread/INFO]: 准备生成区域中：27%
+[22:12:03] [Render thread/INFO]: 准备生成区域中：27%
+[22:12:03] [Render thread/INFO]: 准备生成区域中：28%
+[22:12:04] [Render thread/INFO]: 准备生成区域中：30%
+[22:12:04] [Render thread/INFO]: 准备生成区域中：30%
+[22:12:05] [Render thread/INFO]: 准备生成区域中：30%
+[22:12:05] [Render thread/INFO]: 准备生成区域中：31%
+[22:12:06] [Render thread/INFO]: 准备生成区域中：32%
+[22:12:06] [Render thread/INFO]: 准备生成区域中：34%
+[22:12:07] [Render thread/INFO]: 准备生成区域中：34%
+[22:12:07] [Render thread/INFO]: 准备生成区域中：35%
+[22:12:08] [Render thread/INFO]: 准备生成区域中：37%
+[22:12:08] [Render thread/INFO]: 准备生成区域中：38%
+[22:12:09] [Render thread/INFO]: 准备生成区域中：38%
+[22:12:09] [Render thread/INFO]: 准备生成区域中：39%
+[22:12:10] [Render thread/INFO]: 准备生成区域中：39%
+[22:12:10] [Render thread/INFO]: 准备生成区域中：39%
+[22:12:11] [Render thread/INFO]: 准备生成区域中：41%
+[22:12:11] [Render thread/INFO]: 准备生成区域中：42%
+[22:12:12] [Render thread/INFO]: 准备生成区域中：43%
+[22:12:12] [Render thread/INFO]: 准备生成区域中：43%
+[22:12:13] [Render thread/INFO]: 准备生成区域中：44%
+[22:12:13] [Render thread/INFO]: 准备生成区域中：45%
+[22:12:14] [Render thread/INFO]: 准备生成区域中：45%
+[22:12:14] [Render thread/INFO]: 准备生成区域中：45%
+[22:12:15] [Render thread/INFO]: 准备生成区域中：46%
+[22:12:15] [Render thread/INFO]: 准备生成区域中：46%
+[22:12:16] [Render thread/INFO]: 准备生成区域中：47%
+[22:12:16] [Render thread/INFO]: 准备生成区域中：47%
+[22:12:17] [Render thread/INFO]: 准备生成区域中：47%
+[22:12:17] [Render thread/INFO]: 准备生成区域中：50%
+[22:12:18] [Render thread/INFO]: 准备生成区域中：50%
+[22:12:18] [Render thread/INFO]: 准备生成区域中：52%
+[22:12:19] [Render thread/INFO]: 准备生成区域中：52%
+[22:12:19] [Render thread/INFO]: 准备生成区域中：54%
+[22:12:20] [Render thread/INFO]: 准备生成区域中：55%
+[22:12:20] [Render thread/INFO]: 准备生成区域中：56%
+[22:12:21] [Render thread/INFO]: 准备生成区域中：57%
+[22:12:21] [Render thread/INFO]: 准备生成区域中：58%
+[22:12:22] [Render thread/INFO]: 准备生成区域中：59%
+[22:12:22] [Render thread/INFO]: 准备生成区域中：59%
+[22:12:23] [Render thread/INFO]: 准备生成区域中：60%
+[22:12:23] [Render thread/INFO]: 准备生成区域中：60%
+[22:12:24] [Render thread/INFO]: 准备生成区域中：60%
+[22:12:24] [Render thread/INFO]: 准备生成区域中：60%
+[22:12:25] [Render thread/INFO]: 准备生成区域中：60%
+[22:12:25] [Render thread/INFO]: 准备生成区域中：60%
+[22:12:26] [Render thread/INFO]: 准备生成区域中：60%
+[22:12:26] [Render thread/INFO]: 准备生成区域中：60%
+[22:12:27] [Render thread/INFO]: 准备生成区域中：64%
+[22:12:27] [Render thread/INFO]: 准备生成区域中：65%
+[22:12:28] [Render thread/INFO]: 准备生成区域中：65%
+[22:12:28] [Render thread/INFO]: 准备生成区域中：65%
+[22:12:29] [Render thread/INFO]: 准备生成区域中：68%
+[22:12:29] [Render thread/INFO]: 准备生成区域中：70%
+[22:12:30] [Render thread/INFO]: 准备生成区域中：70%
+[22:12:30] [Render thread/INFO]: 准备生成区域中：70%
+[22:12:31] [Render thread/INFO]: 准备生成区域中：73%
+[22:12:31] [Render thread/INFO]: 准备生成区域中：73%
+[22:12:32] [Render thread/INFO]: 准备生成区域中：74%
+[22:12:32] [Render thread/INFO]: 准备生成区域中：74%
+[22:12:33] [Render thread/INFO]: 准备生成区域中：74%
+[22:12:33] [Render thread/INFO]: 准备生成区域中：74%
+[22:12:34] [Render thread/INFO]: 准备生成区域中：74%
+[22:12:34] [Render thread/INFO]: 准备生成区域中：74%
+[22:12:35] [Render thread/INFO]: 准备生成区域中：74%
+[22:12:35] [Render thread/INFO]: 准备生成区域中：79%
+[22:12:36] [Render thread/INFO]: 准备生成区域中：81%
+[22:12:36] [Render thread/INFO]: 准备生成区域中：83%
+[22:12:37] [Render thread/INFO]: 准备生成区域中：83%
+[22:12:37] [Render thread/INFO]: 准备生成区域中：83%
+[22:12:38] [Render thread/INFO]: 准备生成区域中：83%
+[22:12:38] [Render thread/INFO]: 准备生成区域中：83%
+[22:12:39] [Render thread/INFO]: 准备生成区域中：87%
+[22:12:39] [Render thread/INFO]: 准备生成区域中：89%
+[22:12:40] [Render thread/INFO]: 准备生成区域中：90%
+[22:12:41] [Render thread/INFO]: 准备生成区域中：90%
+[22:12:41] [Render thread/INFO]: 准备生成区域中：90%
+[22:12:43] [Render thread/INFO]: 准备生成区域中：92%
+[22:12:43] [Render thread/INFO]: 准备生成区域中：92%
+[22:12:43] [Render thread/INFO]: 准备生成区域中：92%
+[22:12:43] [Render thread/INFO]: 准备生成区域中：96%
+[22:12:43] [Render thread/INFO]: 准备生成区域中：98%
+[22:12:44] [Render thread/INFO]: Time elapsed: 85697 ms
+[22:12:44] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:12:44] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[22:12:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[22:12:49] [Server thread/INFO]: Bilibili_ddxyy[local:E:67eeff39] logged in with entity id 178 at (1.5, 76.0, 0.5)
+[22:12:49] [Server thread/INFO]: Bilibili_ddxyy加入了游戏
+[22:12:49] [Render thread/INFO]: Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='overworld'} => NamespacedId{namespace='minecraft', name='overworld'}
+[22:12:49] [Render thread/INFO]: Destroying pipeline NamespacedId{namespace='minecraft', name='overworld'}
+[22:12:49] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[22:12:50] [Render thread/INFO]: Started 2 worker threads
+[22:12:51] [Render thread/INFO]: Loaded 2 advancements
+[22:12:55] [Server thread/INFO]: Saving and pausing game...
+[22:12:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:12:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:12:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:13:11] [Server thread/INFO]: Saving and pausing game...
+[22:13:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:13:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:13:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:13:30] [Render thread/INFO]: Stopping worker threads
+[22:13:30] [Render thread/INFO]: Started 2 worker threads
+[22:13:30] [Render thread/INFO]: Flushed changes to Minecraft configuration
+[22:13:31] [Server thread/INFO]: Changing view distance to 32, from 12
+[22:13:31] [Render thread/INFO]: Stopping worker threads
+[22:13:31] [Render thread/INFO]: Started 2 worker threads
+[22:13:35] [Server thread/INFO]: Saving and pausing game...
+[22:13:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:13:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:13:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:14:15] [Server thread/INFO]: Saving and pausing game...
+[22:14:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:14:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:14:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:14:15] [Server thread/INFO]: Bilibili_ddxyy lost connection: 连接中断
+[22:14:15] [Server thread/INFO]: Bilibili_ddxyy退出了游戏
+[22:14:15] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[22:14:15] [Server thread/INFO]: Stopping server
+[22:14:15] [Server thread/INFO]: Saving players
+[22:14:15] [Server thread/INFO]: Saving worlds
+[22:14:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:14:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:14:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (新的世界): All chunks are saved
+[22:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:14:20] [Render thread/INFO]: Stopping worker threads
+[22:14:22] [Render thread/INFO]: Stopping!
