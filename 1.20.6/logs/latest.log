@@ -1,0 +1,199 @@
+[22:30:47] [Datafixer Bootstrap/INFO]: 222 Datafixer optimizations took 753 milliseconds
+[22:30:51] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:30:51] [Render thread/INFO]: Setting user: Bilibili_ddxyy
+[22:30:52] [Render thread/INFO]: Backend library: LWJGL version 3.3.3+5
+[22:30:55] [Render thread/INFO]: Reloading ResourceManager: vanilla
+[22:30:55] [Worker-Main-3/INFO]: Found unifont_all_no_pua-15.1.04.hex, loading
+[22:30:55] [Worker-Main-5/INFO]: Found unifont_jp_patch-15.1.04.hex, loading
+[22:31:01] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[22:31:01] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[22:31:02] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on 扬声器 (Realtek(R) Audio)
+[22:31:02] [Render thread/INFO]: Sound engine started
+[22:31:02] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[22:31:02] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[22:31:02] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[22:31:02] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[22:31:02] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[22:31:02] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[22:31:02] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[22:31:02] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[22:31:02] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[22:31:03] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[22:31:03] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[22:31:03] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[22:31:03] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[22:31:03] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[22:31:03] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[22:31:52] [Render thread/INFO]: Loaded 1175 recipes
+[22:31:53] [Render thread/INFO]: Loaded 1276 advancements
+[22:32:12] [Server thread/INFO]: Starting integrated minecraft server version 1.20.6
+[22:32:12] [Server thread/INFO]: Generating keypair
+[22:32:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:32:21] [Render thread/INFO]: 准备生成区域中：2%
+[22:32:21] [Render thread/INFO]: 准备生成区域中：2%
+[22:32:21] [Render thread/INFO]: 准备生成区域中：2%
+[22:32:22] [Render thread/INFO]: 准备生成区域中：2%
+[22:32:22] [Render thread/INFO]: 准备生成区域中：2%
+[22:32:24] [Render thread/INFO]: 准备生成区域中：2%
+[22:32:24] [Render thread/INFO]: 准备生成区域中：2%
+[22:32:24] [Render thread/INFO]: 准备生成区域中：2%
+[22:32:24] [Render thread/INFO]: 准备生成区域中：4%
+[22:32:25] [Render thread/INFO]: 准备生成区域中：4%
+[22:32:25] [Render thread/INFO]: 准备生成区域中：4%
+[22:32:26] [Render thread/INFO]: 准备生成区域中：10%
+[22:32:26] [Render thread/INFO]: 准备生成区域中：10%
+[22:32:27] [Render thread/INFO]: 准备生成区域中：12%
+[22:32:27] [Render thread/INFO]: 准备生成区域中：18%
+[22:32:28] [Render thread/INFO]: 准备生成区域中：18%
+[22:32:28] [Render thread/INFO]: 准备生成区域中：20%
+[22:32:29] [Render thread/INFO]: 准备生成区域中：24%
+[22:32:29] [Render thread/INFO]: 准备生成区域中：24%
+[22:32:30] [Render thread/INFO]: 准备生成区域中：26%
+[22:32:30] [Render thread/INFO]: 准备生成区域中：32%
+[22:32:31] [Render thread/INFO]: 准备生成区域中：38%
+[22:32:31] [Render thread/INFO]: 准备生成区域中：44%
+[22:32:32] [Render thread/INFO]: 准备生成区域中：51%
+[22:32:32] [Render thread/INFO]: 准备生成区域中：55%
+[22:32:33] [Render thread/INFO]: 准备生成区域中：61%
+[22:32:33] [Render thread/INFO]: 准备生成区域中：63%
+[22:32:34] [Render thread/INFO]: 准备生成区域中：69%
+[22:32:34] [Render thread/INFO]: 准备生成区域中：71%
+[22:32:35] [Render thread/INFO]: 准备生成区域中：71%
+[22:32:35] [Render thread/INFO]: 准备生成区域中：75%
+[22:32:36] [Render thread/INFO]: 准备生成区域中：85%
+[22:32:36] [Render thread/INFO]: Time elapsed: 16011 ms
+[22:32:36] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:32:36] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[22:32:39] [Server thread/INFO]: Bilibili_ddxyy[local:E:b94b326b] logged in with entity id 24 at (-8.5, 98.0, -4.5)
+[22:32:39] [Server thread/INFO]: Bilibili_ddxyy加入了游戏
+[22:32:40] [Render thread/INFO]: Loaded 2 advancements
+[22:32:41] [Server thread/INFO]: Saving and pausing game...
+[22:32:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:32:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:32:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:32:52] [Server thread/INFO]: Saving and pausing game...
+[22:32:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:32:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:32:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:33:09] [Render thread/INFO]: Loaded 5 advancements
+[22:33:26] [Server thread/INFO]: Saving and pausing game...
+[22:33:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:33:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:33:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:33:39] [Server thread/INFO]: Saving and pausing game...
+[22:33:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:33:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:33:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:34:16] [Server thread/INFO]: Saving and pausing game...
+[22:34:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:34:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:34:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:34:32] [Server thread/INFO]: Saving and pausing game...
+[22:34:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:34:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:34:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:34:41] [Render thread/INFO]: Loaded 16 advancements
+[22:34:47] [Render thread/INFO]: Loaded 19 advancements
+[22:34:51] [Render thread/INFO]: Loaded 26 advancements
+[22:35:23] [Server thread/INFO]: Bilibili_ddxyy取得了进度[石器时代]
+[22:35:23] [Render thread/INFO]: [System] [CHAT] Bilibili_ddxyy取得了进度[石器时代]
+[22:35:23] [Render thread/INFO]: Loaded 41 advancements
+[22:35:47] [Server thread/INFO]: Bilibili_ddxyy取得了进度[获得升级]
+[22:35:47] [Render thread/INFO]: [System] [CHAT] Bilibili_ddxyy取得了进度[获得升级]
+[22:35:47] [Render thread/INFO]: Loaded 45 advancements
+[22:35:51] [Render thread/INFO]: Loaded 46 advancements
+[22:36:02] [Render thread/INFO]: Loaded 47 advancements
+[22:37:06] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[22:37:09] [Render thread/INFO]: Loaded 56 advancements
+[22:37:34] [Render thread/INFO]: [System] [CHAT] [调试]： 按键设置：
+[22:37:34] [Render thread/INFO]: [System] [CHAT] F3 + A = 重新加载区块
+[22:37:34] [Render thread/INFO]: [System] [CHAT] F3 + B = 显示判定箱
+[22:37:34] [Render thread/INFO]: [System] [CHAT] F3 + C = 用/tp命令的形式复制你的位置，按住F3 + C使游戏崩溃
+[22:37:34] [Render thread/INFO]: [System] [CHAT] F3 + D = 清空聊天记录
+[22:37:34] [Render thread/INFO]: [System] [CHAT] F3 + G = 显示区块边界
+[22:37:34] [Render thread/INFO]: [System] [CHAT] F3 + H = 显示高级提示框
+[22:37:34] [Render thread/INFO]: [System] [CHAT] F3 + I = 将实体或方块的数据复制到剪贴板
+[22:37:34] [Render thread/INFO]: [System] [CHAT] F3 + L = 开始/停止分析
+[22:37:34] [Render thread/INFO]: [System] [CHAT] F3 + N = 在上一个模式和旁观模式间切换
+[22:37:34] [Render thread/INFO]: [System] [CHAT] F3 + P = 失去焦点时暂停
+[22:37:34] [Render thread/INFO]: [System] [CHAT] F3 + Q = 显示此列表
+[22:37:34] [Render thread/INFO]: [System] [CHAT] F3 + S = 转储动态纹理
+[22:37:34] [Render thread/INFO]: [System] [CHAT] F3 + T = 重新加载资源包
+[22:37:34] [Render thread/INFO]: [System] [CHAT] F3 + Esc = 暂停但不显示菜单（如果可以暂停的话）
+[22:37:34] [Render thread/INFO]: [System] [CHAT] F3 + F4 = 打开游戏模式切换器
+[22:37:37] [Render thread/INFO]: [System] [CHAT] [调试]： 高级提示框：显示
+[22:39:08] [Render thread/INFO]: Loaded 59 advancements
+[22:44:11] [Server thread/INFO]: Bilibili_ddxyy从高处摔了下来
+[22:44:11] [Render thread/INFO]: [System] [CHAT] Bilibili_ddxyy从高处摔了下来
+[22:44:12] [Server thread/INFO]: Saving and pausing game...
+[22:44:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:44:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:44:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:44:14] [Server thread/INFO]: Bilibili_ddxyy lost connection: 连接中断
+[22:44:14] [Server thread/INFO]: Bilibili_ddxyy退出了游戏
+[22:44:14] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[22:44:14] [Server thread/INFO]: Stopping server
+[22:44:14] [Server thread/INFO]: Saving players
+[22:44:14] [Server thread/INFO]: Saving worlds
+[22:44:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:44:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:44:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:44:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (新的世界): All chunks are saved
+[22:44:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:44:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:44:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:44:20] [Render thread/INFO]: Deleting level 新的世界
+[22:44:20] [Render thread/INFO]: Attempt 1...
+[22:44:22] [Render thread/INFO]: Loaded 1175 recipes
+[22:44:22] [Render thread/INFO]: Loaded 1276 advancements
+[22:44:36] [Render thread/INFO]: Loaded 1175 recipes
+[22:44:36] [Render thread/INFO]: Loaded 1276 advancements
+[22:44:40] [Render thread/INFO]: Loaded 1175 recipes
+[22:44:40] [Render thread/INFO]: Loaded 1276 advancements
+[22:44:56] [Server thread/INFO]: Starting integrated minecraft server version 1.20.6
+[22:44:56] [Server thread/INFO]: Generating keypair
+[22:45:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:45:04] [Render thread/INFO]: 准备生成区域中：2%
+[22:45:04] [Render thread/INFO]: 准备生成区域中：2%
+[22:45:04] [Render thread/INFO]: 准备生成区域中：2%
+[22:45:05] [Render thread/INFO]: 准备生成区域中：10%
+[22:45:06] [Render thread/INFO]: 准备生成区域中：20%
+[22:45:06] [Render thread/INFO]: 准备生成区域中：22%
+[22:45:06] [Render thread/INFO]: 准备生成区域中：34%
+[22:45:07] [Render thread/INFO]: 准备生成区域中：51%
+[22:45:08] [Render thread/INFO]: 准备生成区域中：55%
+[22:45:08] [Render thread/INFO]: 准备生成区域中：65%
+[22:45:08] [Render thread/INFO]: 准备生成区域中：77%
+[22:45:09] [Render thread/INFO]: 准备生成区域中：89%
+[22:45:09] [Render thread/INFO]: Time elapsed: 5623 ms
+[22:45:09] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:45:09] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[22:45:09] [Server thread/INFO]: Bilibili_ddxyy[local:E:16c5f7d5] logged in with entity id 3120 at (71.5, 63.0, 56.5)
+[22:45:10] [Server thread/INFO]: Bilibili_ddxyy加入了游戏
+[22:45:10] [Render thread/INFO]: Loaded 2 advancements
+[22:45:35] [Render thread/INFO]: Loaded 11 advancements
+[22:46:15] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.cod.ambient
+[22:46:21] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.tropical_fish.ambient
+[22:47:33] [Render thread/INFO]: Loaded 13 advancements
+[22:49:23] [Server thread/INFO]: Saving and pausing game...
+[22:49:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:49:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:49:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:49:27] [Server thread/INFO]: Saving and pausing game...
+[22:49:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:49:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:49:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:49:27] [Server thread/INFO]: Bilibili_ddxyy lost connection: 连接中断
+[22:49:27] [Server thread/INFO]: Bilibili_ddxyy退出了游戏
+[22:49:27] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[22:49:27] [Server thread/INFO]: Stopping server
+[22:49:27] [Server thread/INFO]: Saving players
+[22:49:27] [Server thread/INFO]: Saving worlds
+[22:49:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:49:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:49:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:49:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (新的世界): All chunks are saved
+[22:49:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:49:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:49:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:49:44] [Render thread/INFO]: Stopping!
